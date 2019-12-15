@@ -37,6 +37,7 @@ $ python whatsapp_analyzer.py
   - id_cw.py for Bahasa Indonesia
   - de_cw.py for German thanks [@yafp](https://github.com/yafp)
   - en_cw.py for English. Thanks @Deekayen [gist](https://gist.github.com/deekayen/4148741 "gist")
+  - es_cw.py for Spanish.
   If you want to add any other language, you can make it one
 
 ### Getting chat source
