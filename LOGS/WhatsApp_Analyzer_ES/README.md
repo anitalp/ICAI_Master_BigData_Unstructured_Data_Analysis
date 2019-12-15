@@ -13,7 +13,7 @@ pip install pandas emoji seaborn matplotlib numpy wordcloud
 ```
 ### Usage
 ```
-$ git clone https://github.com/anitalp/ICAI_Master_BigData_Unstructured_Data_Analysis/LOGS/WhatsApp_Analyzer_ES.git
+$ git clone https://anitalp/ICAI_Master_BigData_Unstructured_Data_Analysis/tree/master/LOGS/WhatsApp_Analyzer_ES.git
 
 $ cd WhatsApp-Analyzer
 $ python whatsapp_analyzer.py
