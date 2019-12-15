@@ -13,7 +13,7 @@ pip install pandas emoji seaborn matplotlib numpy wordcloud
 ```
 ### Usage
 ```
-$ git clone https://anitalp/ICAI_Master_BigData_Unstructured_Data_Analysis/tree/master/LOGS/WhatsApp_Analyzer_ES.git
+$ git clone https://github.com/PetengDedet/WhatsApp-Analyzer.git
 
 $ cd WhatsApp-Analyzer
 $ python whatsapp_analyzer.py
@@ -26,7 +26,7 @@ $ python whatsapp_analyzer.py
     "14/10/18, 11:16 - Contact Name: this is a message"
     "2/30/18, 2:07 AM - Contact Name:  Test👌"
     "[30/12/18 4.59.25 PM] Nama User: 🙏test"
-    "[06/07/17 13.23.30] ‪+62 123-456-78910‬: image omitted"
+    "[06/07/17 13.23.30] ‪+62 123-456-78910‬: image omitted"
   ```
 - Some date format may not supported
 - Tested in python 2.7+ on MacOS
@@ -37,7 +37,6 @@ $ python whatsapp_analyzer.py
   - id_cw.py for Bahasa Indonesia
   - de_cw.py for German thanks [@yafp](https://github.com/yafp)
   - en_cw.py for English. Thanks @Deekayen [gist](https://gist.github.com/deekayen/4148741 "gist")
-  - es_cw.py for Spanish.
   If you want to add any other language, you can make it one
 
 ### Getting chat source
