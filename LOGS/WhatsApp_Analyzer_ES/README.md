@@ -13,7 +13,7 @@ pip install pandas emoji seaborn matplotlib numpy wordcloud
 ```
 ### Usage
 ```
-$ git clone https://github.com/PetengDedet/WhatsApp-Analyzer.git
+$ git clone https://anitalp/ICAI_Master_BigData_Unstructured_Data_Analysis/edit/master/LOGS/WhatsApp_Analyzer_ES.git
 
 $ cd WhatsApp-Analyzer
 $ python whatsapp_analyzer.py
@@ -37,6 +37,7 @@ $ python whatsapp_analyzer.py
   - id_cw.py for Bahasa Indonesia
   - de_cw.py for German thanks [@yafp](https://github.com/yafp)
   - en_cw.py for English. Thanks @Deekayen [gist](https://gist.github.com/deekayen/4148741 "gist")
+  - es_cw.py for Spanish
   If you want to add any other language, you can make it one
 
 ### Getting chat source
